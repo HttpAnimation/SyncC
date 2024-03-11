@@ -1,4 +1,4 @@
-# MainTemplate/gitter
+# SynC/gitter
 This branch holds the gitter.
 
 ## Installing
